@@ -1,2 +1,3 @@
 # my_C_Notes
-cheat sheet for C 
+In my C Notes i will make notes based on my understanding 
+
