@@ -62,5 +62,9 @@ Character types are used to store characters value.
 **Size and range of Integer type on 16-bit machine**
 ![char.png]({{site.baseurl}}/char.png)
 
+**void type**
+
+void type means no value. This is usually used to specify the type of functions which returns nothing. We will get acquainted to this datatype as we start learning more advanced topics in C language, like functions, pointers etc.
+
 
 
